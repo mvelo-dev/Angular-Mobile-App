@@ -1,7 +1,3 @@
-Here's a README file for your Angular NPO donation app:
-
----
-
 # NPO Donation App
 
 This is an Angular-based application that allows users to view a list of Non-Profit Organizations (NPOs) and donate to their favorite ones. Developed with Firebase and Node.js, this app provides a seamless user experience, allowing donations and tracking contributions to various NPOs.
